@@ -1,2 +1,2 @@
 # cs3240---labdemo
-Lab 4
+CS3240 - Lab 4
